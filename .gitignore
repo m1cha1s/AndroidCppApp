@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Example keystore
+my-release-key.keystore
+
+# The build directory
+build/
